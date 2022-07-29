@@ -1,5 +1,5 @@
 /**
- * Demo to move servo to desired angle - this is received from a transmiiter
+ * Demo to move servo to desired angle - this is received from a transmitter
  * 
  * https://makecode.microbit.org/_YUeittH0FgUX
  * 
